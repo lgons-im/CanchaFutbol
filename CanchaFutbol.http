@@ -1,0 +1,6 @@
+@CanchaFutbol_HostAddress = http://localhost:5226
+
+GET {{CanchaFutbol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
